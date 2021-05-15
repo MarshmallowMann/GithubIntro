@@ -1,3 +1,6 @@
+def puta(x):
+print("puta")
 print("Puta")
 print("PGApasjdf")
-def puta(y):
+return x
+
