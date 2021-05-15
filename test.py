@@ -1,1 +1,4 @@
-print("Puta")
+def gago(x):
+print("puta")
+
+return x
