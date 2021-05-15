@@ -1,1 +1,1 @@
-print("Gago")
+print("Puta")
